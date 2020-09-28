@@ -1,0 +1,3 @@
+There once was boy named Elliot making a story on Github for his CS400 class. He didn't really know what to write because there were no guidelines as to what to write or how long
+to make it besides "a paragraph". All that he did know was that he had to add two of his group members to his repository so they could had onto his story. He really hoped Yi and 
+Jack knew what they were doing. 
